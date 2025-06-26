@@ -1,7 +1,7 @@
 #include<stdio.h>
 void fun()
 {
- printf("add will complited");
+ printf("\nadd will complited");
 }
 int main()
 {
